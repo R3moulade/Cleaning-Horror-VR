@@ -95,7 +95,7 @@ GameObject:
   - component: {fileID: 7972276365797009294}
   - component: {fileID: 3667173468924470149}
   m_Layer: 0
-  m_Name: cleaning-bottle
+  m_Name: cleaning-bottle-glass
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -446,7 +446,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 8323537470498845976, guid: b0e62f68376054c48bc3531f4dc21c68, type: 3}
+  - {fileID: -6629797300637803691, guid: f4894b7862ef5bc42843471e11364879, type: 3}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
